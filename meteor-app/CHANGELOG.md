@@ -6,6 +6,7 @@ Next
 * Added eventLog() method and Events collection
 * Upgraded to npm version of simple-schema and updated collection2 to 3.0
 * Added createdAt and updatedAt schema shortcuts
+* Adding CircleCI build
 
 0.3.0
 ------
