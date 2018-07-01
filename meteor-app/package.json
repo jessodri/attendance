@@ -7,7 +7,7 @@
     "lint": "eslint .",
     "test:ui": "start-storybook -s public -p 6046",
     "storybook": "start-storybook -s public -p 6046",
-    "test:build:ui": "BABEL_ENV=ui-test build-storybook",
+    "test:build:ui": "build-storybook",
     "pretestx": "npm run lint --silent",
     "parse": "node scripts/survey-parser.js docs/sample-survey.txt",
     "test:unit": "mocha --opts tests/mocha.opts",
@@ -15,8 +15,8 @@
     "test:integration": "TEST_CLIENT=0 meteor test --once --driver-package meteortesting:mocha --port 3040",
     "test:integration:watch": "TEST_CLIENT=0 TEST_WATCH=1 meteor test --driver-package meteortesting:mocha --port 3040",
     "test:snapshots": "jest tests/snapshots/storyshots.js",
-    "test:snapshots:watch": "jest --watch",
-    "storyshots": "jest --watch",
+    "test:snapshots:watch": "jest tests/snapshots/storyshots.js --watch",
+    "storyshots": "jest test:snapshots:watch --watch",
     "test:storyspecs": "mocha --opts tests/mocha.storyspecs.opts",
     "test:storyspecs:watch": "mocha --opts tests/mocha.storyspecs.opts --watch",
     "storyspecs": "mocha --opts tests/mocha.storyspecs.opts --watch",
@@ -72,6 +72,7 @@
     "@babel/preset-env": "^7.0.0-beta.51",
     "@babel/preset-react": "^7.0.0-beta.51",
     "@babel/register": "^7.0.0-beta.51",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.51",
     "@storybook/addon-actions": "^3.4.3",
     "@storybook/addon-info": "^3.4.3",
     "@storybook/addon-knobs": "^3.4.7",
@@ -165,10 +166,10 @@
     "type": "git",
     "url": "git+https://github.com/Back2bikes/attendance-app.git"
   },
-  "author": "Joseph Szili",
-  "license": "ISC",
+  "author": "Mike King and Matt Wiseman, Joe Szili",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Back2bikes/attendance-app/issues"
   },
-  "homepage": "https://github.com/Back2bikes/attendance-app#readme"
+  "homepage": "https://github.com/Back2bikes/attendance#README"
 }
