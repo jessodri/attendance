@@ -26,7 +26,7 @@ module.exports = {
     env: {
       // TODO: Change to your app's url
       // If you are using ssl, it needs to start with https://
-      ROOT_URL: 'http://bike.assessment.whalley.com',
+      ROOT_URL: 'http://ajwhalley.com',
       MONGO_URL: 'mongodb+srv://eryk:Hxft2q4y2@bikeassessment-qd9hs.mongodb.net/assessment'
     },
     
