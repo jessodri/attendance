@@ -2,17 +2,20 @@ module.exports = {
   servers: {
     one: {
       // TODO: set host address, username, and authentication method
-      host: '159.65.1.63',
+      host: '159.65.0.218',
       username: 'root',
-      // pem: '~/.ssh/id_rsa'
+      // pem: '~/.ssh/id_rsa',
+      // passphrase: ''
       // password: 'server-password'
       // or neither for authenticate from ssh-agent
     }
   },
 
+
+
   app: {
     // TODO: change app name and path
-    name: 'bike-assessment',
+    name: 'bike-assessment-app',
     path: '../',
 
     servers: {
@@ -26,7 +29,7 @@ module.exports = {
     env: {
       // TODO: Change to your app's url
       // If you are using ssl, it needs to start with https://
-      ROOT_URL: 'http://ajwhalley.com',
+      ROOT_URL: "http://159.65.0.218",
       MONGO_URL: 'mongodb+srv://eryk:Hxft2q4y2@bikeassessment-qd9hs.mongodb.net/assessment'
     },
     
@@ -38,8 +41,7 @@ module.exports = {
     // Show progress bar while uploading bundle to server
     // You might need to disable it on CI servers
     enableUploadProgressBar: true,
-    deployCheckWaitTime: 600,
-    enableUploadProgressBar: true
+    deployCheckWaitTime: 30,
   },
 
   // (Optional)
