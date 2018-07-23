@@ -1,4 +1,6 @@
 import faker from 'faker'
+import '/imports/api/parts/methods'
+
 
 const imagesUrls = [
   'http://cdn2.webninjashops.com/bicycleparts/images/resized/4f8065b290713ff3dbca44641f3a52b5882c5e21.jpg',

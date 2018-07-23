@@ -2,6 +2,7 @@ import { Meteor } from 'meteor/meteor' // base
 import Parts from '/imports/api/parts/schema'
 import Orders from '/imports/api/orders/schema'
 import casual from 'casual'
+import '/imports/api/parts/methods'
 
 const imagesUrls = [
   'http://cdn2.webninjashops.com/bicycleparts/images/resized/4f8065b290713ff3dbca44641f3a52b5882c5e21.jpg',
@@ -35,8 +36,11 @@ Meteor.methods({
     casual.define('part', function () {
       return {
         imageUrl: imagesUrls[Math.floor(Math.random() * imagesUrls.length)],
-        wholesalePrice: casual.integer(10, 200000),
-        retailPrice: casual.integer(10, 200000),
+        wholesalePrice: casual.integer(100, 200),
+        retailPrice: casual.integer(1000, 20000),
+        // retailPrice: function calculateRetailPrice(part) {
+        //   return parseInt(part.retailPrice)
+        // },
         partNo: casual.integer(600000, 1000000).toString(),
         name: casual.string,
         barcode: casual.integer(600000, 1000000),
