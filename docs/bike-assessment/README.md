@@ -32,6 +32,35 @@
 - **[Discuss and analyse requirements related to information system security](#151)**
 - **[Discuss methods you will use to protect information and data.](#16)**
 - **[Research what your legal obligations are in relation to handling user data.](#17)**
+- **[Project Requirements - Part B](#18)**
+- **[Record interactions with your client in a diary format](#19)**
+- **[Plan information gathering activities to determine project requirements,constraints and risks](#20)**
+- **[Develop project charter, including preliminary statement of project scope and obtain sign-off](#21)**
+- **[Prepare project work breakdown and schedule](#22)**
+- **[Allocate roles and responsibilities to team members, based on project solution requirements](#23)**
+- **[Monitor each other’s assigned work](#24)**
+- **[Reassess ongoing project scope changes, risks and issues](#25)**
+- **[Manage system testing and hand over activities. Prepare maintenance or support plans for client.](#26)**
+- **[Obtain final project sign-off](#27)**
+- **[As a team, conduct post project review](#28)**
+- **[Create a questionnaire for the client to ascertain the satisfaction with your products and services](#29)**
+- **[5.2 Application Design](#30)**
+- **[350 word summary of your application including problem definition and solution](#31)**
+- **[Review the conceptual design with the client and edit based on their feedback](#32)**
+- **[User stories for the whole application](#33)**
+- **[A workflow diagram of the user journey/s](#34)**
+- **[Wireframes for all main pages of your app](#35)**
+- **[Entity Relationship Diagram (ERD)](#36)**
+- **[Project plan and effort estimation](#37)**
+- **[5.3 Tools & Methodologies](#38)**
+- **[Demonstrate your project management skills](#39)**
+- **[Trello](#40)**
+- **[GitHub](#41)**
+- **[Agile development methodologies](#42)**
+- **[Code Review](#43)**
+- **[Client Communication](#44)**
+- **[5.4 Technologies](#45)**
+
 
 
 ## <a id="1"></a>Who is your client?
@@ -440,3 +469,143 @@ We investigated our legal obligations towards our customer using Google, and cam
 In this link we found that while it is extremely important to protect customer data, the effort made to protect data should be tempered by the potential harm that can occur from customer data being stolen. As we are only storing data that is publicly available for most people (name & email address), we didn't need to slow down our work process too much in order to secure it. We will be following simple Authentication, Authorisation, and data validation standards for our project.
 
 ---
+# <a id="18"></a>Project Management
+**[Home](#content)**
+
+Demonstrate your ability to satisfy your client with the quality of your work and high level of service.
+
+## <a id="19"></a> Record interactions with your client in a diary format
+**[Home](#content)**
+
+|Date|Via|Regarding|Comments|
+| ------------- |:-------------:| -----:| -------|
+|July 7, 2018|Email|Instructions to sign up for Trello, Github, Nuclino & Slack|Completed by all members|
+|July 7, 2018|Slack|Arranged meeting for teams at B2B on Jul 10| |
+|July 9, 2018|Meeting|Meeting with Mike at NAB to discuss scope of project|Both teams present|
+|July 10, 2018|Meeting|Meeting with Matt at CA to go over existing app structure|Both teams present|
+|July 10, 2018|Meeting|Tour of B2B - 11:30am|Collected user stories|
+|July 12, 2018|Email|Email from Mike answering Q's we had regarding preferred design|Discussed in further detail during in-person meeting|
+|July 12, 2018|Meeting|Meeting with Mike at CA to review documentation/design|Changes noted and updated in our design. Git workflow discussed.|
+|July 13, 2018|Google Hangout|Discussed using wiki for documentation, discussed changes to our pull request regarding documentation. Trello cards to be made on Monday.|AJ was absent for this meeting.|
+|Jul 17, 2018|Meeting|Meeting with Mike at CA|Mike showed us how to use VS code debugger|
+|July 23, 2018|Slack|Quick discussion letting Mike know when project due| |
+    	
+
+## <a id="20"></a> Plan information gathering activities to determine project requirements,constraints and risks
+**[Home](#contents)** 
+    We met with our client at their premises and were taken through their current method of assessing bikes, recording their assessments, and estimating the cost of assessment. From this we developed a set of project requirements which were sent through to our client to make sure they met his needs. After his feedback, we adjusted the requirements and they were approved. Proper sprint planning and development then began.
+
+## <a id="21"></a> Develop project charter, including preliminary statement of project scope and obtain sign-off
+**[Home](#contents)** 
+    See Part A Sections - Who is your client, Describe the project you will be conducting and how your App will address the client's needs.
+
+## <a id="22"></a> Prepare project work breakdown and schedule
+**[Home](#contents)** 
+    See Part A Sections - Explain the different high-level components(abstractions) in your App, Provide your database schema design, Provide Wireframes for your App, Describe the way Tasks are being allocated and tracked in your project
+
+## <a id="23"></a> Allocate roles and responsibilities to team members, based on project solution requirements
+**[Home](#contents)** 
+    Due to the small size of our team, people were involved in lots of different areas. Where required we had members with more knowledge in areas assist others with development tasks. Each morning we had a stand up and discussed what each team member would be working on for that day.
+
+## <a id="24"></a> Monitor each other’s assigned work
+**[Home](#contents)** 
+    As we were using Trello, we could all see where various tickets were and comment or assist as needed. We also had a retrospective at the end of each week to discuss how we were all going with our assigned tasks.
+
+## <a id="25"></a> Reassess ongoing project scope changes, risks and issues
+**[Home](#contents)** 
+    Throughout the development of the app we were in frequent communication with our client. As the client was involved as the QA when we were merging our branches into development, he always had a good overview on our current progress. Upon developing certain components of our app, we would be informed that he would prefer a different layout or slightly different functional experience. We would then take this feedback on board and where reasonable and achievable would make it happen.
+
+## <a id="26"></a> Manage system testing and hand over activities. Prepare maintenance or support plans for client.
+**[Home](#contents)** 
+    As our app was basically two new features for an existing application, our handover needs are relatively minimal. Our client is an experienced developer with the knowledge and expertise needed to resolve any potential issues that may occur over the app's life-cycle. When building the app we made sure to adhere to existing design patterns and any other guidelines provided by the client to ensure their would be no surprises down the line when/if they need to make changes.
+
+## <a id="27"></a> Obtain final project sign-off
+**[Home](#contents)** 
+    Project was queried and approved by Ruegen, Matt, and Gretchen.
+
+## <a id="28"></a> As a team, conduct post project review
+**[Home](#contents)** 
+    We rock.
+
+## <a id="29"></a> Create a questionnaire for the client to ascertain the satisfaction with your products and services
+**[Home](#contents)** 
+
+    Has the new app solved your business problem?
+    Are there any features missing that you would have liked to be included?
+    How was the communication of the team?
+    Was enough effort made to ensure that what they were developing matched what you needed?
+    Were there any issues you had in collaborating with the development team?
+    What feedback would you provide to the team for future projects?
+
+# <a id="30"></a> 5.2 Application Design
+**[Home](#contents)** 
+
+Demonstrate your ability to break down the problem and design a solution.
+
+## <a id="31"></a> 350 word summary of your application including problem definition and solution
+**[Home](#contents)** 
+
+    See Part A Section - What is your client’s need (i.e. challenge) that you will be addressing in your project?
+
+## <a id="32"></a> Review the conceptual design with the client and edit based on their feedback
+**[Home](#contents)** 
+
+    See Part A Section - Describe the project you will be conducting and how your App will address the client’s needs.
+
+## <a id="33"></a> User stories for the whole application
+**[Home](#contents)** 
+
+    See Part A Section - Provide User stories for your App.
+
+## <a id="34"></a> A workflow diagram of the user journey
+**[Home](#contents)** 
+
+    See Part A Section - Provide Wireframes for your App.
+
+## <a id="35"></a> Wireframes for all main pages of your app
+**[Home](#contents)** 
+
+    See Part A Section - Provide Wireframes for your App.
+
+## <a id="36"></a> Entity Relationship Diagram (ERD)
+**[Home](#contents)** 
+
+    See Part A Section - Provide your database schema design.
+
+## <a id="37"></a> Project plan and effort estimation
+**[Home](#contents)** 
+
+    We used a Trello board for our project planning and planned sprints each week to get through the work. We did not use story points for our estimates as the concept proved to be more confusing than useful, so we did daily standups each morning to gauge where we are at and how our development pace was going.
+
+# <a id="38"></a> 5.3 Tools & Methodologies
+**[Home](#contents)** 
+
+## <a id="39"></a> Demonstrate your project management skills
+**[Home](#contents)** 
+
+## <a id="40"></a> Trello
+**[Home](#contents)** 
+    Picture goes here
+## <a id="41"></a> GitHub
+**[Home](#contents)** 
+    Picture goes here
+
+## <a id="42"></a> Agile development methodologies
+**[Home](#contents)** 
+    Done. Part A
+
+## <a id="43"></a>Code Review
+**[Home](#contents)** 
+    Our team would often work doing pair programming which allowed for a two person review process to be occurrring on most development. As we only had a limited number of manhours and a tight deadline to meet, we considered this a sufficient effort to review our code.
+
+## <a id="44"></a> Client Communcation
+**[Home](#contents)** 
+    Slack was our primary means of communication as well as some emails for lengthier information transfers.
+
+## <a id="45"></a> 5.4 Technologies
+**[Home](#contents)** 
+    Mongo / Mongoose - Used
+    Express - Not Used
+    React.js - Used
+    Node.js - Not Used
+    Meteor - Used
