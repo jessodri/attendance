@@ -2,16 +2,17 @@
 
 # Back To Bikes Assessment App
 
-Live Site - http://206.189.89.214/
+[Live Site](http://206.189.89.214/)
 
-Presentation Slides - https://docs.google.com/presentation/d/1BQpXL_p6Se6v5eQV9eSvatbO0o3A0RGZ8J3u3Bny1Jo/edit?usp=sharing
+[Presentation Slides](https://docs.google.com/presentation/d/1BQpXL_p6Se6v5eQV9eSvatbO0o3A0RGZ8J3u3Bny1Jo/edit?usp=sharing)
 
-## - Turning Paper Into Tech
+[Link to the official GitHub repository](https://github.com/Back2bikes/attendance)
 
+# Turning Paper Into Tech
 
-[Link to the GitHub repository](https://github.com/Back2bikes/attendance)
+Our team (AJ, Chris, Jess and Richard) were responsible for the assessment feature of the Back2Bikes Attendance App.
 
----
+The features we worked on can be found mainly in imports/api/assessments and imports/ui/assessment although we also had to add a few changes in folders such as imports/ui/layouts and imports/ui/admin. 
 
 # <a id="contents"></a>Contents
 - **[Who is your client?](#1)**
