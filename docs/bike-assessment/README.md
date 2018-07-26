@@ -642,8 +642,9 @@ Slack was our primary means of communication as well as some emails for lengthie
 ## <a id="45"></a> 5.4 Technologies
 **[Home](#contents)** 
 
-- Mongo / Mongoose - Used
-- Express - Not Used
-- React.js - Used
-- Node.js - Not Used
-- Meteor - Used
+- Mongo / Mongoose
+- Semantic UI
+- React.js
+- Storybook
+- Meteor
+- React JSON Schema Form
