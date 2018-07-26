@@ -44,7 +44,7 @@
 - **[Obtain final project sign-off](#27)**
 - **[As a team, conduct post project review](#28)**
 - **[Create a questionnaire for the client to ascertain the satisfaction with your products and services](#29)**
-- **[5.2 Application Design](#30)**
+- Application Design
 - **[350 word summary of your application including problem definition and solution](#31)**
 - **[Review the conceptual design with the client and edit based on their feedback](#32)**
 - **[User stories for the whole application](#33)**
@@ -52,7 +52,7 @@
 - **[Wireframes for all main pages of your app](#35)**
 - **[Entity Relationship Diagram (ERD)](#36)**
 - **[Project plan and effort estimation](#37)**
-- **[5.3 Tools & Methodologies](#38)**
+- Tools & Methodologies
 - **[Demonstrate your project management skills](#39)**
 - **[Trello](#40)**
 - **[GitHub](#41)**
@@ -425,7 +425,7 @@ Each new day we will 'git pull' off the master "development" branch so that we a
 - Storybook and Storyshots will also be used to test out the appearance and function of different components during the development process.
 
 ---
-## <a id="151"></a>Discuss and analyse requirements related to information system security
+## <a id="15"></a>Discuss and analyse requirements related to information system security
 **[Home](#contents)**
 
 In any application where you are gathering user information it is important to make sure that data is accurate, safely stored, and accessible only to authorised users.
@@ -493,119 +493,136 @@ Demonstrate your ability to satisfy your client with the quality of your work an
 
 ## <a id="20"></a> Plan information gathering activities to determine project requirements,constraints and risks
 **[Home](#contents)** 
-    We met with our client at their premises and were taken through their current method of assessing bikes, recording their assessments, and estimating the cost of assessment. From this we developed a set of project requirements which were sent through to our client to make sure they met his needs. After his feedback, we adjusted the requirements and they were approved. Proper sprint planning and development then began.
+
+We met with our client at their premises and were taken through their current method of assessing bikes, recording their assessments, and estimating the cost of assessment. From this we developed a set of project requirements which were sent through to our client to make sure they met his needs. After his feedback, we adjusted the requirements and they were approved. Proper sprint planning and development then began.
 
 ## <a id="21"></a> Develop project charter, including preliminary statement of project scope and obtain sign-off
 **[Home](#contents)** 
-    See Part A Sections - Who is your client, Describe the project you will be conducting and how your App will address the client's needs.
+
+See Part A Sections - Who is your client, Describe the project you will be conducting and how your App will address the client's needs.
 
 ## <a id="22"></a> Prepare project work breakdown and schedule
 **[Home](#contents)** 
-    See Part A Sections - Explain the different high-level components(abstractions) in your App, Provide your database schema design, Provide Wireframes for your App, Describe the way Tasks are being allocated and tracked in your project
+
+See Part A Sections - Explain the different high-level components(abstractions) in your App, Provide your database schema design, Provide Wireframes for your App, Describe the way Tasks are being allocated and tracked in your project
 
 ## <a id="23"></a> Allocate roles and responsibilities to team members, based on project solution requirements
 **[Home](#contents)** 
-    Due to the small size of our team, people were involved in lots of different areas. Where required we had members with more knowledge in areas assist others with development tasks. Each morning we had a stand up and discussed what each team member would be working on for that day.
+
+Due to the small size of our team, people were involved in lots of different areas. Where required we had members with more knowledge in areas assist others with development tasks. Each morning we had a stand up and discussed what each team member would be working on for that day.
 
 ## <a id="24"></a> Monitor each other’s assigned work
 **[Home](#contents)** 
-    As we were using Trello, we could all see where various tickets were and comment or assist as needed. We also had a retrospective at the end of each week to discuss how we were all going with our assigned tasks.
+
+As we were using Trello, we could all see where various tickets were and comment or assist as needed. We also had a retrospective at the end of each week to discuss how we were all going with our assigned tasks.
 
 ## <a id="25"></a> Reassess ongoing project scope changes, risks and issues
 **[Home](#contents)** 
-    Throughout the development of the app we were in frequent communication with our client. As the client was involved as the QA when we were merging our branches into development, he always had a good overview on our current progress. Upon developing certain components of our app, we would be informed that he would prefer a different layout or slightly different functional experience. We would then take this feedback on board and where reasonable and achievable would make it happen.
+
+Throughout the development of the app we were in frequent communication with our client. As the client was involved as the QA when we were merging our branches into development, he always had a good overview on our current progress. Upon developing certain components of our app, we would be informed that he would prefer a different layout or slightly different functional experience. We would then take this feedback on board and where reasonable and achievable would make it happen.
 
 ## <a id="26"></a> Manage system testing and hand over activities. Prepare maintenance or support plans for client.
 **[Home](#contents)** 
-    As our app was basically two new features for an existing application, our handover needs are relatively minimal. Our client is an experienced developer with the knowledge and expertise needed to resolve any potential issues that may occur over the app's life-cycle. When building the app we made sure to adhere to existing design patterns and any other guidelines provided by the client to ensure their would be no surprises down the line when/if they need to make changes.
+
+As our app was basically two new features for an existing application, our handover needs are relatively minimal. Our client is an experienced developer with the knowledge and expertise needed to resolve any potential issues that may occur over the app's life-cycle. When building the app we made sure to adhere to existing design patterns and any other guidelines provided by the client to ensure their would be no surprises down the line when/if they need to make changes.
 
 ## <a id="27"></a> Obtain final project sign-off
 **[Home](#contents)** 
-    Project was queried and approved by Ruegen, Matt, and Gretchen.
+Project was queried and approved by Ruegen, Matt, and Gretchen.
 
 ## <a id="28"></a> As a team, conduct post project review
 **[Home](#contents)** 
-    We rock.
+We rock.
 
 ## <a id="29"></a> Create a questionnaire for the client to ascertain the satisfaction with your products and services
 **[Home](#contents)** 
 
-    Has the new app solved your business problem?
-    Are there any features missing that you would have liked to be included?
-    How was the communication of the team?
-    Was enough effort made to ensure that what they were developing matched what you needed?
-    Were there any issues you had in collaborating with the development team?
-    What feedback would you provide to the team for future projects?
+- Has the new app solved your business problem?
+- Are there any features missing that you would have liked to be included?
+- How was the communication of the team?
+- Was enough effort made to ensure that what they were developing matched what you needed?
+- Were there any issues you had in collaborating with the development team?
+- What feedback would you provide to the team for future projects?
 
-# <a id="30"></a> 5.2 Application Design
-**[Home](#contents)** 
-
-Demonstrate your ability to break down the problem and design a solution.
+# 5.2 Application Design
 
 ## <a id="31"></a> 350 word summary of your application including problem definition and solution
 **[Home](#contents)** 
 
-    See Part A Section - What is your client’s need (i.e. challenge) that you will be addressing in your project?
+See Part A
+- **[What is your client’s need (i.e. challenge) that you will be addressing in your project?](#2)**
 
 ## <a id="32"></a> Review the conceptual design with the client and edit based on their feedback
 **[Home](#contents)** 
 
-    See Part A Section - Describe the project you will be conducting and how your App will address the client’s needs.
+See Part A
+- **[Describe the project you will be conducting and how your App will address the client’s needs.](#4)**
 
 ## <a id="33"></a> User stories for the whole application
 **[Home](#contents)** 
 
-    See Part A Section - Provide User stories for your App.
-
+See Part A
+- **[Provide User stories for your App.](#11)**
+- 
 ## <a id="34"></a> A workflow diagram of the user journey
 **[Home](#contents)** 
 
-    See Part A Section - Provide Wireframes for your App.
+See Part A
+- **[Provide Wireframes for your App.](#12)**
 
 ## <a id="35"></a> Wireframes for all main pages of your app
 **[Home](#contents)** 
 
-    See Part A Section - Provide Wireframes for your App.
+See Part A
+- **[Provide Wireframes for your App.](#12)**
 
 ## <a id="36"></a> Entity Relationship Diagram (ERD)
 **[Home](#contents)** 
 
-    See Part A Section - Provide your database schema design.
+See Part A
+- **[Provide your database schema design.](#10)**
+
 
 ## <a id="37"></a> Project plan and effort estimation
 **[Home](#contents)** 
 
-    We used a Trello board for our project planning and planned sprints each week to get through the work. We did not use story points for our estimates as the concept proved to be more confusing than useful, so we did daily standups each morning to gauge where we are at and how our development pace was going.
+We used a Trello board for our project planning and planned sprints each week to get through the work. We did not use story points for our estimates as the concept proved to be more confusing than useful, so we did daily standups each morning to gauge where we are at and how our development pace was going.
 
-# <a id="38"></a> 5.3 Tools & Methodologies
-**[Home](#contents)** 
+#  5.3 Tools & Methodologie
 
 ## <a id="39"></a> Demonstrate your project management skills
 **[Home](#contents)** 
 
 ## <a id="40"></a> Trello
 **[Home](#contents)** 
-    Picture goes here
+
+![Trello Board Photo](assets/trello_board.png)
+
 ## <a id="41"></a> GitHub
 **[Home](#contents)** 
-    Picture goes here
+
+![Github Photo](assets/Github_PR.PNG)
 
 ## <a id="42"></a> Agile development methodologies
 **[Home](#contents)** 
-    Done. Part A
+
+See Part A
+- **[Discuss how Agile methodology is being implemented in your App.](#14)**
 
 ## <a id="43"></a>Code Review
 **[Home](#contents)** 
-    Our team would often work doing pair programming which allowed for a two person review process to be occurrring on most development. As we only had a limited number of manhours and a tight deadline to meet, we considered this a sufficient effort to review our code.
+Our team would often work doing pair programming which allowed for a two person review process to be occurrring on most development. As we only had a limited number of manhours and a tight deadline to meet, we considered this a sufficient effort to review our code.
 
-## <a id="44"></a> Client Communcation
+## <a id="44"></a> Client Communication
 **[Home](#contents)** 
-    Slack was our primary means of communication as well as some emails for lengthier information transfers.
+
+Slack was our primary means of communication as well as some emails for lengthier information transfers.
 
 ## <a id="45"></a> 5.4 Technologies
 **[Home](#contents)** 
-    Mongo / Mongoose - Used
-    Express - Not Used
-    React.js - Used
-    Node.js - Not Used
-    Meteor - Used
+
+- Mongo / Mongoose - Used
+- Express - Not Used
+- React.js - Used
+- Node.js - Not Used
+- Meteor - Used
