@@ -123,6 +123,9 @@ Git Commits
 Git Stats
 ![git stats](/assets/gitstats.png)
 
+Git Branches
+![git branches](/assets/branches.png)
+
 ---
 ### 3. Use Agile development methodologies
 ---
