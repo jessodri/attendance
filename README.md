@@ -152,6 +152,10 @@ It was a completely different experience joining "someone else's" repo. Naming c
 
 ![b2b_commits](./assets/team_commits.png)
 
+#### Pull Requests
+
+![team_PR](./assets/b2b_pr.png)
+
 
 # 23. Show evidence of client communication, e.g. meeting minutes, emails, or other communication tools.
 
