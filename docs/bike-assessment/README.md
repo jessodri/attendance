@@ -504,7 +504,14 @@ See Part A Sections - Who is your client, Describe the project you will be condu
 ## <a id="22"></a> Prepare project work breakdown and schedule
 **[Home](#contents)** 
 
-See Part A Sections - Explain the different high-level components(abstractions) in your App, Provide your database schema design, Provide Wireframes for your App, Describe the way Tasks are being allocated and tracked in your project
+See Part A Sections
+**[Explain the different high-level components (abstractions) in your App.](#7)**
+
+**[Provide your database schema design.](#10)**
+
+**[Provide Wireframes for your App.](#12)**
+
+**[Describe the way Tasks are being allocated and tracked in your project.](#13)**
 
 ## <a id="23"></a> Allocate roles and responsibilities to team members, based on project solution requirements
 **[Home](#contents)** 
