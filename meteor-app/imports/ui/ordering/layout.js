@@ -37,11 +37,11 @@ export default withTracker(props => {
           },
           { name: { $regex: new RegExp(escapeRegExp(query)), $options: "i" } }
         ]
-      };
+      }
     } else {
       return {};
     }
-  };
+  }
   const addToCart = async orderedPart => {
     const currentOrder = await Orders.findOne({
       status: CONSTANTS.ORDER_STATUS_NEW
