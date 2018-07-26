@@ -108,3 +108,20 @@ We included one feature that would allow the shop manager or client himself to c
 ---
 ### 7. Project plan and effort estimation
 ---
+
+
+# Tools & Methodologies
+
+### 1. Trello or similar project management tool to be used for Kanban process to track progress of build
+---
+### 2. GitHub Demonstrate use of frequent commits, feature branches (based on user stories), pull requests and merges
+---
+### 3. Use Agile development methodologies
+---
+### 4. Code review. Demonstrate that you have had your code reviewed by other students and that you have provided a code review for others
+
+As a lot of what we did was pair programming we were constantly reviewing and tweaking each others code. Originally the plan was to have to pairs coding with the 5th person (Eryk) working on his own but also jumping into each pair to help out when needed. As the team discovered their strenths we would sometimes code on our own but still often reviewed each others code. When something was particularly tricky or taking time we would pair program again until the problem was solved. 
+
+Our code was also constantly overseen and reviewed by our client as we were pushing to the organisations Github. This means that often our pull requests would be rejected and more work required before the work was accepted by the client. 
+
+### 5. Show evidence of client communication, e.g. meeting minutes, emails, or other communication tools
