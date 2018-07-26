@@ -59,7 +59,7 @@
 - **[Agile development methodologies](#42)**
 - **[Code Review](#43)**
 - **[Client Communication](#44)**
-- **[5.4 Technologies](#45)**
+- **[Technologies](#45)**
 
 
 
@@ -530,9 +530,12 @@ As our app was basically two new features for an existing application, our hando
 **[Home](#contents)** 
 Project was queried and approved by Ruegen, Matt, and Gretchen.
 
-## <a id="28"></a> As a team, conduct post project review
+## <a id="28"></a> Post Project Review
 **[Home](#contents)** 
-We rock.
+
+Working as part of a 4 person team exposed us all to development challenges that we had not previously experienced. While it was easy for us to each indiviudally manage our own time on previous projects, the scope of work and needs of the team meant that good communication and effective collaboration was an early problem we needed to navigate in order to work productively. As in any team, different members had different strengths, weaknesses, & skills and splitting the work in a way to be both fair and provide everyone the oppuotunity to push themselves was important. WE found that we worked very well together and kept up high spirits during this project.
+
+A point of weakness was we sometimes forgot to update Trello cards or move them as work was completed. This would mean that other team members might lose visibility on where the project was at and what a good next step for them would be.
 
 ## <a id="29"></a> Create a questionnaire for the client to ascertain the satisfaction with your products and services
 **[Home](#contents)** 
@@ -550,37 +553,39 @@ We rock.
 **[Home](#contents)** 
 
 See Part A
-- **[What is your client’s need (i.e. challenge) that you will be addressing in your project?](#2)**
+**[What is your client’s need (i.e. challenge) that you will be addressing in your project?](#2)**
 
 ## <a id="32"></a> Review the conceptual design with the client and edit based on their feedback
 **[Home](#contents)** 
 
 See Part A
-- **[Describe the project you will be conducting and how your App will address the client’s needs.](#4)**
+**[Describe the project you will be conducting and how your App will address the client’s needs.](#4)**
 
 ## <a id="33"></a> User stories for the whole application
 **[Home](#contents)** 
 
 See Part A
-- **[Provide User stories for your App.](#11)**
-- 
+**[Provide User stories for your App.](#11)**
+  
 ## <a id="34"></a> A workflow diagram of the user journey
 **[Home](#contents)** 
 
 See Part A
-- **[Provide Wireframes for your App.](#12)**
+**[Provide Wireframes for your App.](#12)**
 
 ## <a id="35"></a> Wireframes for all main pages of your app
 **[Home](#contents)** 
 
 See Part A
-- **[Provide Wireframes for your App.](#12)**
+
+**[Provide Wireframes for your App.](#12)**
 
 ## <a id="36"></a> Entity Relationship Diagram (ERD)
 **[Home](#contents)** 
 
 See Part A
-- **[Provide your database schema design.](#10)**
+
+**[Provide your database schema design.](#10)**
 
 
 ## <a id="37"></a> Project plan and effort estimation
@@ -593,21 +598,23 @@ We used a Trello board for our project planning and planned sprints each week to
 ## <a id="39"></a> Demonstrate your project management skills
 **[Home](#contents)** 
 
+Our project was a new feature to an existing app that was also having features added by another team. This required us to have good communication not only with out client but also the other team and their stakeholders. Despite these difficulties, we successfully ran 2 sprints and got our feature up and running in time for extra testing.
+
 ## <a id="40"></a> Trello
 **[Home](#contents)** 
 
-![Trello Board Photo](assets/trello_board.png)
+![Trello Board Photo](assets/trello_board_full.png)
 
 ## <a id="41"></a> GitHub
 **[Home](#contents)** 
 
-![Github Photo](assets/Github_PR.PNG)
+![Github Photo](assets/Github_PR.png)
 
 ## <a id="42"></a> Agile development methodologies
 **[Home](#contents)** 
 
 See Part A
-- **[Discuss how Agile methodology is being implemented in your App.](#14)**
+**[Discuss how Agile methodology is being implemented in your App.](#14)**
 
 ## <a id="43"></a>Code Review
 **[Home](#contents)** 
