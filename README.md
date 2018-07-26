@@ -35,6 +35,7 @@ We initially thought that all members of the team would get some time in all env
 The roles of each member was typically the same, each of us were to code as much as possible and help each other out when we could. Upon the first day of coding we found that Eryk would be a "floating" coder. He had put in a fair few hours understanding the meteor framework on the first weekened of the project. This allowed the rest of us to more easily understand the intricacies involved. The intimidation of playing around with an already established code base was eliminated quickly when we had someone who was fairly familiar with it.
 
 
+
 ### 6. Monitor each other’s assigned work
 ---
 We used agile-styled stand-ups in the morning of each day, where we'd discuss what work we had done the day before, our progress on what we were working on, and how we would approach the day ahead. 
