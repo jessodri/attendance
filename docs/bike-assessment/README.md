@@ -2,7 +2,8 @@
 
 # Back To Bikes Assessment App
 
-http://206.189.89.214/
+Live Site - http://206.189.89.214/
+Presentation Slides - https://docs.google.com/presentation/d/1BQpXL_p6Se6v5eQV9eSvatbO0o3A0RGZ8J3u3Bny1Jo/edit?usp=sharing
 
 ## - Turning Paper Into Tech
 
