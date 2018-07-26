@@ -115,6 +115,13 @@ We included one feature that would allow the shop manager or client himself to c
 ### 1. Trello or similar project management tool to be used for Kanban process to track progress of build
 ---
 ### 2. GitHub Demonstrate use of frequent commits, feature branches (based on user stories), pull requests and merges
+
+Git Commits 
+![git commits](/assets/gitcommits1.png)
+
+Git Stats
+![git stats](/assets/gitstats.png)
+
 ---
 ### 3. Use Agile development methodologies
 ---
