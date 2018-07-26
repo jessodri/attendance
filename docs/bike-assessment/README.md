@@ -553,12 +553,14 @@ A point of weakness was we sometimes forgot to update Trello cards or move them 
 **[Home](#contents)** 
 
 See Part A
+
 **[What is your client’s need (i.e. challenge) that you will be addressing in your project?](#2)**
 
 ## <a id="32"></a> Review the conceptual design with the client and edit based on their feedback
 **[Home](#contents)** 
 
 See Part A
+
 **[Describe the project you will be conducting and how your App will address the client’s needs.](#4)**
 
 ## <a id="33"></a> User stories for the whole application
@@ -614,10 +616,12 @@ Our project was a new feature to an existing app that was also having features a
 **[Home](#contents)** 
 
 See Part A
+
 **[Discuss how Agile methodology is being implemented in your App.](#14)**
 
 ## <a id="43"></a>Code Review
-**[Home](#contents)** 
+**[Home](#contents)**
+
 Our team would often work doing pair programming which allowed for a two person review process to be occurrring on most development. As we only had a limited number of manhours and a tight deadline to meet, we considered this a sufficient effort to review our code.
 
 ## <a id="44"></a> Client Communication
