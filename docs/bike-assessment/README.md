@@ -639,6 +639,10 @@ Our team would often work doing pair programming which allowed for a two person 
 **[Home](#contents)** 
 
 Slack was our primary means of communication as well as some emails for lengthier information transfers.
+As a whole we enjoyed and apprecaited a real life experience of what it's like working with a client. It's very different to working on your own and making all your own decisions. Here is an exaple of some of the emails that went back and forth to make sure we were buidling something of utmost use. 
+![Emaial Photo](assets/emailphoto1.png)
+![Emaial Photo](assets/emailphoto2.png)
+
 
 ## <a id="45"></a> 5.4 Technologies
 **[Home](#contents)** 
@@ -649,3 +653,8 @@ Slack was our primary means of communication as well as some emails for lengthie
 - Storybook
 - Meteor
 - React JSON Schema Form
+- Digital Ocean
+- Docker
+- Meteor Up 
+- MongoDB Atlas 
+  
